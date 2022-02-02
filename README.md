@@ -1,7 +1,7 @@
 # Code-Quiz
 
 ## Description
-A quiz on HTML to practice what different elements do, its also for fun.
+A quiz on HTML to practice what different elements do, its also for fun. ps.not fully working
 
 ## website
 https://fernandomoreno1.github.io/Code-Quiz/
